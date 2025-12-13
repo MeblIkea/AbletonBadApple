@@ -1,4 +1,7 @@
 Live/
 _Framework/
+ableton/
 .venv/
 .idea/
+frames/frames/*
+badapple_frames.py
