@@ -8,7 +8,7 @@ I've always had this silly idea to play the video Bad Apple on Ableton Clips, so
 #### [Preview](https://youtu.be/4pBRVbXzuKg?t=27)
 
 ### Install
-Download the ZIP and extract it in the right location:
+Download the ZIP and extract it in the right location:  
 Windows: `C:\Users\[username]\Documents\Ableton\User Library\AbletonBadApple`  
 MacOS: `Macintosh HD/Users/[username]/Music/Ableton/User Library/AbletonBadApple`
 
